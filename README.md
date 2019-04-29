@@ -3,7 +3,7 @@
 Made by Estaban Riat and Maëlle Manifacier
 
 
-Create an Andoid app that permit to control a Myo armbrand (gesture recognition device) with a robot "Ollie"
+The aim was to create an Andoid app that permit to control a Myo armbrand (gesture recognition device) with a robot "Ollie"
 
 To be able to control the robot, you will need to connect them to your phone by bluetooth. 
 To do so, open the app, connect firstly the robot and the the armbrand.
