@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+
+    <color name="rouge">#AD2412</color>
+    <color name="vert">#3EA02D</color>
+    <color name="bleu">#3B78A5</color>
+
+
+    <color name="vitesse">#54C4BA</color>
+    <color name="texte">#4E4E4E</color>
+</resources>
